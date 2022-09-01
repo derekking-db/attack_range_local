@@ -1,5 +1,5 @@
 ansible==2.9.2
-ansible-runner==1.4.4
+ansible-runner==2.1.1
 Jinja2==2.11.3
 python-vagrant==0.5.15
 pywinrm==0.4.1
